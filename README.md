@@ -58,7 +58,9 @@ An LLM's statement that an analysis is sufficient is a workflow signal; it does 
 
 ## Author and context
 
-[Fernando Barbosa](https://www.linkedin.com/in/fernando-barbosa-ds/) works in applied AI and decision science.
+[Fernando Barbosa](https://www.linkedin.com/in/fernando-barbosa-ds/) is a Lead Scientist at FICO. His professional work includes customer AI requirements and solution architecture for credit underwriting and credit limit management.
+
+This repository documents personal research prototypes for financial analysis. The professional role and the maturity of this public project are described separately.
 
 Related writing: [Medium](https://fernando-liaison.medium.com/).
 
