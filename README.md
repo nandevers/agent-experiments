@@ -24,6 +24,18 @@ Business question → extract parameters → define objectives → assess availa
 
 The policy-maker notebook represents this process as a state graph, with an analytical loop before report generation.
 
+```mermaid
+flowchart LR
+  Q[Business question] --> O[Analytical objectives]
+  O --> M[Select metrics]
+  M --> D[Query synthetic data]
+  D --> E[Assess evidence]
+  E --> R[Draft report or further analysis]
+```
+
+This depicts the analytical workflow under exploration, not a validated lending decision engine.
+
+
 ## Technical components
 
 - Python and Jupyter notebooks.
